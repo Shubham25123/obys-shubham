@@ -1,4 +1,4 @@
-# 🎨 Obys Portfolio Clone – Shubham's Version
+# 🎨 Obys – Shubham's Version
 
 A smooth, scroll-animated creative website built using , **GSAP**, and **Framer Motion**. Crafted to showcase visual storytelling and front-end animation skills.
 
@@ -19,7 +19,6 @@ A smooth, scroll-animated creative website built using , **GSAP**, and **Framer 
 * 🧼 Locomotive Scroll (if used for smooth scrolling)
 
 ## 📸 Screenshots
+![Screenshot 2025-06-23 005248](https://github.com/user-attachments/assets/32d2d707-0e1b-4b71-8723-81b20a377717)
 
-> *(Add screenshots or animations showing scroll effects)*
-
-Designed & Developed by [Shubham Sharma](https://github.com/Shubham25123)
+ Developed by [Shubham Sharma](https://github.com/Shubham25123)
